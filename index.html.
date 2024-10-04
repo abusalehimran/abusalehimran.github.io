@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abu Saleh Imran - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Abu Saleh Imran</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><a href="#writing">Creative Writing</a></li>
+                <li><a href="#images">Images</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Welcome to My Portfolio</h2>
+        <p>
+            Hi, I’m Abu Saleh Imran, a passionate student of Political Science, Public Administration, and International Relations. 
+            I explore topics ranging from geopolitics to literature and love to share my knowledge with others. 
+            Feel free to explore my writings and images. Thanks for visiting!
+        </p>
+    </section>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            My name is Abu Saleh Imran, and I am currently pursuing my postgraduate studies at Guwahati University. 
+            My areas of interest span across Political Science, Public Administration, International Relations, and Geopolitics. 
+            Apart from academics, I also have a deep interest in literature and creative writing. 
+            I enjoy guiding students in these fields and sharing my knowledge through writing.
+        </p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: <a href="mailto:abusalehimran6@gmail.com">abusalehimran6@gmail.com</a></p>
+        <p>Instagram: <a href="https://www.instagram.com/Its_Imran_explorer" target="_blank">@Its_Imran_explorer</a></p>
+    </section>
+
+    <section id="writing">
+        <h2>Creative Writing</h2>
+        <p>Placeholder for creative writing pieces. Add your content here later.</p>
+    </section>
+
+    <section id="images">
+        <h2>My Images</h2>
+        <p>Placeholder for images. Add your content here later.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Abu Saleh Imran. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
